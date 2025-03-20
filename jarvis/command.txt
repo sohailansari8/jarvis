@@ -1,0 +1,22 @@
+1 search animal in wikipedia   ........ wikipedia search
+
+2 time     ......tell me the time
+
+3 date     ......tell me the date
+
+4 hello,bye,who are you,fine good ...... chat query
+
+5 open website
+   .... youyube,google,instagram,stackoverflow,github,calculator,notepad,
+
+6 open application ......query open app name
+  ..... chrome,edge,whatsapp,calculator.
+
+7 start any app that exist in laptop 
+  ...... query app name
+
+8.finally sleep ......for sleep jarvis
+
+9.shortcut key for speak......press ctrl+q for speak function
+
+10. play music.......query play music 
