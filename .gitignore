@@ -1,0 +1,64 @@
+# ============================================================
+#  JARVIS — .gitignore
+# ============================================================
+
+# ── Secrets & environment ─────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ── Config with API keys (stored in home dir by default) ──
+jarvis_config.json
+
+# ── Python bytecode & caches ──────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ── Virtual environments ──────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.Python
+
+# ── Screenshots taken by Jarvis ───────────────────────────
+screenshots/
+
+# ── IDE & editor files ────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# ── OS generated files ────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Distribution / build ──────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+*.spec
+
+# ── Test & coverage ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── Temporary files ───────────────────────────────────────
+*.tmp
+*.bak
+*.swp
+*~
